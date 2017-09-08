@@ -15,7 +15,7 @@ _This is a website that acts as a portfolio to showcase Epicodus course projects
 
 ## Support and contact details
 
-If there are any questions, comments or bugs to report, please email Kimberly at [kbordon@gmail.com](mailto:kbordon@gmail.com) to check out my other great recipes.kbordon@gmail.com
+If there are any questions, comments or bugs to report, please email Kimberly at [kbordon@gmail.com](mailto:kbordon@gmail.com).
 
 ## Technologies Used
 
@@ -23,6 +23,6 @@ HTML, CSS, Bootstrap, and Github
 
 ### License
 
-*Licensed under MIT license.*
+_Licensed under MIT license._
 
 **Copyright (c) 2017 **Kimberly Bordon, Epicodus**
