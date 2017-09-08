@@ -18,14 +18,22 @@ body {
   white-space: nowrap;
 }
 
+.containerProjects {
+  padding: 50px;
+}
+
+.containerTopSpace {
+  padding-top: 50px;
+}
+
 .imgfloat {
   width: 30%;
-  float: right;
+  float: left;
   border-left: 3px solid black;
   border-right: 1px solid black;
   border-bottom: 3px solid black;
   border-top: 1px solid black;
-  margin-left: 5px;
+  margin-right: 10px;
 }
 
 .linkfloat {
@@ -41,4 +49,6 @@ body {
   font-family: sans-serif;
   font-size: 12pt;
   width: 65%;
+  float: right;
+  padding-right: 20px;
 }
