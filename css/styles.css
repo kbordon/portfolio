@@ -75,3 +75,7 @@ body {
   text-decoration: underline;
   font-size: 13pt;
 }
+
+.stretch-100 {
+  height: 100%;
+}
