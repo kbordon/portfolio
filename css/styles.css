@@ -2,14 +2,7 @@ body {
   background-color: #ff66ff; /*pink*/
 }
 
-.right {
-  text-align: right;
-}
-
-.projecttitle {
-  text-shadow: #ccff66 3px 3px;
-}
-
+/*for index page*/
 .containerEntire {
   border: 1px solid black;
   padding-left: 0px;
@@ -29,6 +22,11 @@ body {
 
 .paddingMain {
   padding-left: 40px;
+}
+
+/*for projects page*/
+.projecttitle {
+  text-shadow: #ccff66 3px 3px;
 }
 
 .containerProjects {
@@ -60,6 +58,8 @@ body {
 .linkfloat {
   float:right;
 }
+
+/*for about page*/
 
 .imgabout {
   float: right;
