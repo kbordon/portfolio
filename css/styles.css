@@ -23,6 +23,10 @@ body {
   float: right;
 }
 
+.paddingMain {
+  padding-left: 40px;
+}
+
 .containerProjects {
   padding: 50px;
 }
