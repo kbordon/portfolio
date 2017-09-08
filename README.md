@@ -10,8 +10,8 @@ _This is a website that acts as a portfolio to showcase Epicodus course projects
 
 ## Setup/Installation Requirements
 
-* Download or clone this repository.
-* Open index.html in main folder with available web browser.
+*_Download or clone this repository._
+*_Open index.html in main folder with available web browser._
 
 ## Support and contact details
 
@@ -25,4 +25,4 @@ _HTML, CSS, Bootstrap, and Github_
 
 *Licensed under MIT license.*
 
-Copyright (c) 2017 **Kimberly Bordon, Epicodus**
+**Copyright (c) 2017 **Kimberly Bordon, Epicodus**
