@@ -13,9 +13,14 @@ body {
   background-color: white;
   font-family: monospace;
 }
+.myJumbotron {
+  background-color: #ccff66; /*green*/
+}
 
-.containerNav {
-  white-space: nowrap;
+.imgmain {
+  width: 350px;
+  padding-right: 50px;
+  float: right;
 }
 
 .containerProjects {
@@ -26,7 +31,7 @@ body {
   padding-top: 50px;
 }
 
-.imgfloat {
+.imgfloatProjects {
   width: 30%;
   float: left;
   border-left: 3px solid black;
@@ -36,19 +41,14 @@ body {
   margin-right: 10px;
 }
 
-.linkfloat {
-  float:right;
-}
-
-.myJumbotron {
-  background-color: #ccff66; /*green*/
-}
-
-
 .projDesc {
   font-family: sans-serif;
   font-size: 12pt;
   width: 65%;
   float: right;
   padding-right: 20px;
+}
+
+.linkfloat {
+  float:right;
 }
