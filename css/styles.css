@@ -2,6 +2,10 @@ body {
   background-color: #ff66ff; /*pink*/
 }
 
+.right {
+  text-align: right;
+}
+
 .projecttitle {
   text-shadow: #ccff66 3px 3px;
 }
@@ -59,10 +63,15 @@ body {
 
 .imgabout {
   float: right;
-  width: 35%;
+  width: 36%;
   padding-right: 5px;
 }
 
-.about {
-  width: 60%;
+.panel-60 {
+  width: 62%
+}
+
+.cities {
+  text-decoration: underline;
+  font-size: 13pt;
 }
