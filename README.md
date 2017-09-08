@@ -10,16 +10,16 @@ _This is a website that acts as a portfolio to showcase Epicodus course projects
 
 ## Setup/Installation Requirements
 
-*_Download or clone this repository._
-*_Open index.html in main folder with available web browser._
+* Download or clone this repository.
+* Open index.html in main folder with available web browser.
 
 ## Support and contact details
 
-_If there are any questions, comments or bugs to report, please email Kimberly at kbordon@gmail.com_
+If there are any questions, comments or bugs to report, please email Kimberly at [kbordon@gmail.com](mailto:kbordon@gmail.com) to check out my other great recipes.kbordon@gmail.com
 
 ## Technologies Used
 
-_HTML, CSS, Bootstrap, and Github_
+HTML, CSS, Bootstrap, and Github
 
 ### License
 
