@@ -1,4 +1,18 @@
+body {
+  background-color: teal;
+}
+
+.containerEntire {
+  border: 1px solid black;
+  padding-left: 0px;
+  padding-right: 0px;
+  background-color: white;
+}
+
 .imgfloat {
   width: 350px;
-  float: right;
+}
+
+.myJumbotron {
+  background-color: yellow;
 }
