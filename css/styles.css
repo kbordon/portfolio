@@ -1,5 +1,9 @@
 body {
-  background-color: #ff66ff;
+  background-color: #ff66ff; /*pink*/
+}
+
+.projecttitle {
+  text-shadow: #ccff66 2px 5px;
 }
 
 .containerEntire {
@@ -15,10 +19,26 @@ body {
 }
 
 .imgfloat {
-  width: 150px;
+  width: 30%;
   float: right;
+  border-left: 3px solid black;
+  border-right: 1px solid black;
+  border-bottom: 3px solid black;
+  border-top: 1px solid black;
+  margin-left: 5px;
+}
+
+.linkfloat {
+  float:right;
 }
 
 .myJumbotron {
-  background-color: #ccff66;
+  background-color: #ccff66; /*green*/
+}
+
+
+.projDesc {
+  font-family: sans-serif;
+  font-size: 12pt;
+  width: 65%;
 }
