@@ -3,7 +3,7 @@ body {
 }
 
 .projecttitle {
-  text-shadow: #ccff66 2px 5px;
+  text-shadow: #ccff66 3px 3px;
 }
 
 .containerEntire {
@@ -55,4 +55,14 @@ body {
 
 .linkfloat {
   float:right;
+}
+
+.imgabout {
+  float: right;
+  width: 35%;
+  padding-right: 5px;
+}
+
+.about {
+  width: 60%;
 }
