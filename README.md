@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is a website that acts as a portfolio to showcase Epicodus course projects. It uses HTML, CSS and also incorporates Bootstrap elements._
+_This is a website that acts as a portfolio to showcase Epicodus course projects. It uses HTML, CSS and also incorporates Bootstrap elements. Preview this website [here](http://kbordon.github.io/portfolio/) or copy the following URL into your web browser address bar: https://kbordon.github.io/portfolio/_
 
 ## Setup/Installation Requirements
 
@@ -25,4 +25,4 @@ HTML, CSS, Bootstrap, and Github
 
 _Licensed under MIT license._
 
-**Copyright (c) 2017 **Kimberly Bordon, Epicodus**
+**Copyright (c) 2017 Kimberly Bordon, Epicodus**
